@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution Code](https://www.github.com/Nrupatungan/loopstudio-page)
-- Live Site URL: [Live Site](https://nrupatungan.github.io/loopstudio-page/)
+- Live Site URL: [Live Site](https://loopstudios-landing-page-342a79.netlify.app/)
 
 ## My process
 
